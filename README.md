@@ -1,1 +1,3 @@
-# Artificial_Intelligence_MIS462
+# Artificial Intelligence
+
+They are python applications belonging to the artificial intelligence course of the Management Information Systems department.
